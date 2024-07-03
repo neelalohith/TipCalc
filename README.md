@@ -1,7 +1,7 @@
 # TipCalc
 
-1. This is the Repository for an App that asllows us to compute the total cost after sharing the bill ( with tips included ) with 'N' Number of people.
-2. The total cost can be computed for an indivitual person with tips as well.
+1. This is the Repository for an App that allows us to compute the total cost after sharing the bill ( with tips included ) with 'N' Number of people.
+2. The total cost can be computed for an individual person with tips as well.
 
 Screenshots:
 
