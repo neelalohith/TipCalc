@@ -11,6 +11,9 @@ Screenshots:
 ![2](https://github.com/neelalohith/TipCalc/assets/98219059/daade9f8-29ee-4146-aee9-92ba4bbc6906)
 
 
+
+
+
 Features:
 1. Pure Kotlin.
 2. Single Screen.
