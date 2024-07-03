@@ -4,7 +4,9 @@
 2. The total cost can be computed for an indivitual person with tips as well.
 
 Screenshots:
+
 ![1](https://github.com/neelalohith/TipCalc/assets/98219059/f943cb5b-3ebb-4f00-b554-f87d19d5e455)
+
 
 ![2](https://github.com/neelalohith/TipCalc/assets/98219059/daade9f8-29ee-4146-aee9-92ba4bbc6906)
 
